@@ -1,0 +1,4 @@
+LABELS_FILE = classes/coco-custom.names
+CONFIG_FILE = cfg/yolov3-custom.cfg
+WEIGHTS_FILE = weights/yolov3_4000.weights
+CONFIDENCE_THRESHOLD = 0.5
